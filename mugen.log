@@ -1,0 +1,161 @@
+------------------------------------------
+M.U.G.E.N ver 1.00 (2010.06.29) status log
+------------------------------------------
+Parsing command line...
+Command line: C:\PC 01\Parodia Figther\sounds\PresidentFighter\mugen.exe
+Parse command line OK
+Initializing...
+Allocating game variables
+Reading configuration file...OK
+Initializing timer...performance timer enabled...frequency 10000000...OK
+Initializing keyboard...configuring...OK
+Initializing input engine...OK
+Initializing sound...OK
+Initializing BGM...BGMThreadInit returned 0
+OK
+Initializing graphics...gameCoord 1240x745...render mode 0_2...trying 1240x745x16 mode 0x0...success...OK
+Setting callbacks...OK
+Initializing font...OK
+Initializing game variables...OK
+Loading system fonts...OK
+Loading options...
+Initializing pads...failed
+Reinitializing input engine...OK
+Remapping keys...OK
+Reinitializing input engine...OK
+Options loaded OK
+Loading system...
+  Load system file system.def...OK
+  Load system spr...OK
+  Load system snd...OK
+  Load system fonts...OK
+  Load system anim...OK
+  Load [Title Info]...OK
+  Load [Option Info]...OK
+  Load [Select Info]...OK
+  Load [VS Screen]...OK
+  Load [Victory Screen]...OK
+  Load [Demo Mode]...OK
+  Load [Continue Screen]...OK
+  Load [Game Over Screen]...OK
+  Load [Win Screen]...OK
+  Load [Survival Results Screen]...OK
+  Load [Default Ending]...OK
+  Load [End Credits]...OK
+  Load TitleBG...VersusBG...VictoryBG...SelectBG...OptionBG...OK
+  Loading fight data
+    Opening fight data file data/mugen1/fight.def...OK
+    Reading [Files]...OK
+    Loading fonts...OK
+    Load fight anim...OK
+    Reading [Lifebar]...[Turns Lifebar]...[Simul Lifebar]...[Powerbar]...
+    [Face]...[Simul Face]...[Turns Face]...
+    [Name]...[Simul Name]...[Turns Name]...
+    [Time]...[Combo]...[Round]...[WinIcon]...OK
+    Allocating explods...OK
+  Fight data loaded OK
+System loaded OK
+Initialize OK
+Set up graphics...timer...OK
+Initializing character info...OK
+Initializing select screen...finding characters...OK
+
+Entering main loop
+Entering character select.
+attempting load and start...no BGM...attempting load and start...no BGM...Loading character chars/Calderon/Calderon.def...
+  Loading info...OK
+  Loading cmd command set mrbig.cmd...OK
+  Loading cns mrbig.cns...OK
+  Loading cns attacks.cns...OK
+  Loading cns specials.cns...OK
+  Loading cns hypers.cns...OK
+  Loading cns misc.cns...OK
+  Loading cmd state entry mrbig.cmd...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff mrbig.sff...OK
+  Loading anim mrbig.air...OK
+  Loading snd mrbig.snd...attempting load and start...no BGM...OK
+  Loading pals...OK
+  9656 expressions (3461 on trigger lines)
+Character Calderon.def loaded OK
+Loading character chars/Nieto/Nieto.def...
+  Loading info...OK
+  Loading cmd command set mrbig.cmd...OK
+  Loading cns mrbig.cns...OK
+  Loading cns attacks.cns...OK
+  Loading cns specials.cns...OK
+  Loading cns hypers.cns...OK
+  Loading cns misc.cns...OK
+  Loading cmd state entry mrbig.cmd...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff mrbig.sff...OK
+  Loading anim mrbig.air...OK
+  Loading snd mrbig.snd...OK
+  Loading pals...OK
+  9656 expressions (3461 on trigger lines)
+Character Nieto.def loaded OK
+Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+End of game loop
+Total time: 6.71s
+Total frames: 336 	Skipped frames: 0
+Avg game rate: 50.07
+Avg frame rate: 50.07
+
+Entering character select.
+attempting load and start...no BGM...attempting load and start...no BGM...Loading character chars/j.biden/j.biden.def...
+  Loading info...OK
+  Loading cmd command set mrbig.cmd...OK
+  Loading cns mrbig.cns...OK
+  Loading cns attacks.cns...OK
+  Loading cns specials.cns...OK
+  Loading cns hypers.cns...OK
+  Loading cns misc.cns...OK
+  Loading cmd state entry mrbig.cmd...OK
+  Loading common states common1.cns...OK
+  Unloading command names...OK
+  Loading sff mrbig.sff...OK
+  Loading anim mrbig.air...OK
+  Loading snd mrbig.snd...OK
+  Loading pals...OK
+  9656 expressions (3461 on trigger lines)
+Character j.biden.def loaded OK
+attempting load and start...no BGM...Initializing stage...
+  Loading BG...OK
+  Allocating helpers...OK
+Stage initialized OK
+Start of game loop
+End of game loop
+Total time: 8.80s
+Total frames: 441 	Skipped frames: 0
+Avg game rate: 50.11
+Avg frame rate: 50.11
+
+Entering character select.
+attempting load and start...no BGM...attempting load and start...no BGM...Entering character select.
+attempting load and start...no BGM...Returned from main loop
+Deinitializing...
+Frames      : 777
+Time elapsed: 112.650 sec
+ticks: 11265, tps: 100, start 149, end 11414
+
+Clearing player cache...OK
+Freeing character info...OK
+Freeing select screen...OK
+Freeing fight data...OK
+Freeing system data...OK
+Freeing game variables...OK
+Deinitializing input...pad...keyboard...OK
+Removing callbacks...OK
+Deintializing timer...OK
+Deinitializing graphics...OK
+Deinitializing BGM...OK
+Deinitializing sound...OK
+Successful program termination.
+
+Log file successfully closed.
